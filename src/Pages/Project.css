@@ -1,0 +1,80 @@
+.project{
+    padding-left: 150px;
+    margin-top:20px ;
+}
+.project hr{
+    width: 300px;
+    height:10px;
+    text-align: center;
+    margin:10px auto;
+    color: #138781;
+}
+.project h2{
+    font-weight: bold;
+    color: #138781;
+}
+#ads{
+    margin: 30px 0 30px 0;
+   
+
+}
+#ads .card-notify-badge{
+    position: absolute;
+    left: -10px;
+    top: -20px;
+    background-color: #f29f67;
+    text-align: center;
+    border-radius: 30px;
+    padding: 5px 10px;
+    font-size:16px ;
+}
+#ads .card{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.card img{
+    width: 100%;
+}
+.card-detail-badge{
+    background-color:#e0b50f;
+    text-align: center;
+    border-radius: 30px;
+    padding: 5px 10px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.card-image-overly span{
+    display: inline-block;
+    margin-left: 5px;
+}
+.ad-btn{
+    text-transform: uppercase;
+    display:inline-block;
+    padding: 5px 20px;
+    border-radius: 10px;
+    background-color: #138781;
+    text-decoration: none;
+    color: white;
+    /* margin-left: 25px; */
+    margin-left: 5px;
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+}
+#ads .card:hover{
+background-color: white;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+transition: all 0.3s ease;
+}
+.ad-btn:hover{
+    background-color: white;
+    color: #138781;
+    border: 2px solid #138781;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    transition: all 0.5s ease;
+}
+
+  .ad-btn:disabled {
+ 
+    cursor: not-allowed;
+  }

@@ -1,0 +1,22 @@
+.about{
+    margin-top: 10px;
+    margin-left: 200px;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* background-color: rebeccapurple; */
+}
+.about-img img{
+    width: 100%;
+    border-radius: 10px;
+    
+}
+.about-me{
+    padding: 20px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+.about-me h1{
+    color: gray;
+    font-family: cursive;
+    text-align: center;
+}

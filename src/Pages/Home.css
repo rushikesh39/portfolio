@@ -1,0 +1,34 @@
+.home-container{
+    height: 300px;
+    color: white;
+    padding-left: 100px;
+    padding-top: 100px;
+
+}
+.home-container h1{
+    color: #e0b50f;;
+}
+.home-buttons{
+    padding-top: 20px;
+}
+.home-buttons .btn-hire{
+    background-color: #3b8ff3;
+    margin: 10px;
+    color:white;
+    width: 150px;
+}
+.home-buttons .btn-hire:hover{
+    background-color:white ;
+    color:#3b8ff3;
+    width: 160px;
+    transition: 1s;
+}
+.home-buttons .btn-cv{
+    background-color: #f29f67;
+    color:white;
+    width: 150px;
+}
+.home-buttons .btn-cv:hover{
+   opacity: 80%;
+    transition: 1s;
+}
