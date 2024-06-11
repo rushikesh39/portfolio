@@ -5,6 +5,8 @@ import About from './Pages/About';
 import Education from './Pages/Education';
 import Project from './Pages/Project';
 import TechStack from './Pages/TechStack';
+import Work from './Pages/Work';
+
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
     <Education/>
     <TechStack/>
     <Project/>
+   <Work/>
     </div>
     
     </>
